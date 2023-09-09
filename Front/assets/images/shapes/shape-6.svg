@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1155.421" height="857.181" viewBox="0 0 1155.421 857.181">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e5e5e5"/>
+      <stop offset="1" stop-color="#737373" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="Path_163433" x="317.905" y="0" width="837.516" height="857.181" filterUnits="userSpaceOnUse">
+      <feOffset dy="18" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feFlood flood-opacity="0"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.374" y1="0.753" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#def3ff"/>
+      <stop offset="1" stop-color="#d3edfc" stop-opacity="0.09"/>
+    </linearGradient>
+    <filter id="Rectangle_17309" x="0" y="24.508" width="764.339" height="782.208" filterUnits="userSpaceOnUse">
+      <feOffset dy="18" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur-2"/>
+      <feFlood flood-opacity="0"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="shape-6" transform="translate(-191.551 -5684.109)">
+    <g transform="matrix(1, 0, 0, 1, 191.55, 5684.11)" filter="url(#Path_163433)">
+      <path id="Path_163433-2" data-name="Path 163433" d="M183.531,0H519.566A183.531,183.531,0,0,1,703.1,183.531V253.87A183.531,183.531,0,0,1,519.566,437.4H183.531A183.531,183.531,0,0,1,0,253.87V183.531A183.531,183.531,0,0,1,183.531,0Z" transform="translate(663.96 3) rotate(48)" opacity="0.14" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 191.55, 5684.11)" filter="url(#Rectangle_17309)">
+      <rect id="Rectangle_17309-2" data-name="Rectangle 17309" width="638.51" height="397.087" rx="198.544" transform="translate(316.09 27.51) rotate(48)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>

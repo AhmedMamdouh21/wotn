@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56.263" height="87.431" viewBox="0 0 56.263 87.431">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_17260" data-name="Rectangle 17260" width="87.431" height="56.263" rx="28.132" transform="translate(665 584.917) rotate(-90)" fill="#fff" opacity="0.09"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-665 -497.486)" clip-path="url(#clip-path)">
+    <g id="SVGRepo_iconCarrier" transform="translate(665 513.07)">
+      <rect id="Rectangle_17798" data-name="Rectangle 17798" width="56.263" height="56.263" fill="none"/>
+      <g id="Group_73179" data-name="Group 73179">
+        <path id="Path_163505" data-name="Path 163505" d="M14.066,45.01V11.253h8.439V45.01ZM33.758,11.253H42.2V45.01H33.758Z" fill="#1c86c0"/>
+      </g>
+    </g>
+  </g>
+</svg>

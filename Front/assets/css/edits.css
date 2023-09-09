@@ -1,0 +1,46 @@
+@media (max-width: 991px) {
+    .navbar-toggler {
+        border: 1px solid #455467 !important;
+        top: unset !important;
+        right: 29px !important;
+        position: absolute;
+        background: #455467 url(../images/icons/menu.svg) no-repeat center;
+          background-size: auto;
+        background-size: 39px;
+        z-index: 99;
+        padding: 0.26rem 0.57rem;
+    }
+    
+    .navbar-collapse {
+        background: #fff;
+        padding: 15px;
+        position: absolute;
+        width: 100%;
+        top: 78px;
+        right: -40px;
+        z-index: 99;
+        box-shadow: 0px 4px 6px #27080830;
+        border-radius: 6px;
+    }
+    .header .col-lg-2, .header .col-lg-8{
+        position: unset !important;
+    }
+    .navbar{
+        position: unset !important;
+    }
+    .top-bar a {
+      font-size: 13px;
+    }
+    .top-bar a:nth-child(3) {
+        display: none;
+    }
+}
+.lanBtn{
+    border: 1px solid #1a668f;
+    border-radius: 30px;
+    text-align: center !important;
+    width: 40px;
+    height: 40px;
+    line-height: normal;
+    margin: 10px;
+}

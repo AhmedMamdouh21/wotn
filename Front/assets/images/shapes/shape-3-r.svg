@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="764.339px" height="782.208px" viewBox="0 0 764.339 782.208" enable-background="new 0 0 764.339 782.208"
+	 xml:space="preserve">
+<filter  width="764.339" height="782.208" id="Rectangle_17309" filterUnits="userSpaceOnUse" y="0" x="0">
+	<feOffset  input="SourceAlpha" dy="18"></feOffset>
+	<feGaussianBlur  result="blur" stdDeviation="7"></feGaussianBlur>
+	<feFlood  flood-opacity="0"></feFlood>
+	<feComposite  in2="blur" operator="in"></feComposite>
+	<feComposite  in="SourceGraphic" operator="over"></feComposite>
+</filter>
+<g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_17309)">
+	
+		<linearGradient id="Rectangle_17309-2_2_" gradientUnits="userSpaceOnUse" x1="375.1724" y1="397.8032" x2="375.2984" y2="397.5562" gradientTransform="matrix(-474.5054 427.2466 265.7031 295.0931 72629.5391 -277318.4688)">
+		<stop  offset="0" style="stop-color:#DEF3FF"/>
+		<stop  offset="1" style="stop-color:#D3EDFC;stop-opacity:0.09"/>
+	</linearGradient>
+	<path id="Rectangle_17309-2_1_" fill="url(#Rectangle_17309-2_2_)" d="M604.723,439.878L425.312,601.421
+		c-81.487,73.373-207.026,66.793-280.397-14.693l0,0C71.542,505.24,78.122,379.701,159.61,306.33l179.41-161.543
+		c81.488-73.373,207.027-66.793,280.398,14.694l0,0C692.792,240.968,686.211,366.507,604.723,439.878z"/>
+</g>
+</svg>
