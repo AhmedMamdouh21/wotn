@@ -119,7 +119,8 @@ html[lang="ar"] .shape_content1 {
     margin-left: 28px !important;
     top: 492px !important;
 }
-.hero h1 {
+.hero h1,
+.hero .hero-title {
   font-size: 58px !important;
 }
 .phonenumber{
