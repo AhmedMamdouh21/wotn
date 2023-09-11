@@ -120,6 +120,27 @@ var swiper = new Swiper(".Slider1", {
         },
     });
 
+    /*** Start Hero ***/
+
+    var swiperHero = new Swiper(".swiper-hero-text", {
+      slidesPerView: 1,
+      spaceBetween: 0,
+      effect: 'fade',
+      fadeEffect: {
+        crossFade: true
+      },
+      speed:500,
+      allowTouchMove: false,
+      // loop: true,
+      autoplay: {
+          delay: 1500,
+          disableOnInteraction: false,
+      },
+  });
+
+    /*** End Hero ***/
+
+
   $('.capsule').on("click", function () {
     $('#ca_title, #ca_description, #ca_img').fadeOut(0);
     $(this).addClass('active').siblings().removeClass('active');

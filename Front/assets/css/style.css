@@ -528,6 +528,7 @@ a.lang:hover {
   padding-bottom: calc(3em + 56px);
 }
 
+
 .hero h1 em,
 .hero .hero-title em {
   margin-bottom: 15px;
@@ -543,8 +544,14 @@ a.lang:hover {
   font-size: 80px;
 }
 
+.hero h1 span,
+.hero .hero-title span {
+  color:#25B4E5;
+}
+
 .hero .hero-title{
   line-height: 1.2;
+  font-weight: 500;
 }
 
 .hero a.main-btn,
