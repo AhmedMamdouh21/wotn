@@ -149,3 +149,12 @@ var swiper = new Swiper(".Slider1", {
     $('#ca_img').delay(200).attr('src', $(this).attr('data-img'));
     $('#ca_title, #ca_description, #ca_img').delay(50).fadeIn('fast');
 })
+
+
+/*** Start Show/Hide circular-menu on scroll ***/
+
+$(window).scroll(function () {
+  $(window).scrollTop() >= 150 ? $(".circular-menu").addClass("show-icon") : $(".circular-menu").removeClass("show-icon");
+});
+
+/*** End Show/Hide circular-menu on scroll ***/

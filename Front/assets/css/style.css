@@ -3203,6 +3203,20 @@ ul.list-unstyled li {
   z-index: 9999999999;
 }
 
+@media (max-width: 575.98px) {
+  .circular-menu {
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .circular-menu.show-icon {
+    opacity: 1;
+    pointer-events: all;
+  }
+}
+
+
 .circular-menu .floating-btn {
   display: block;
   width: 3.5em;
